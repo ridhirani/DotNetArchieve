@@ -1,0 +1,16 @@
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.exe
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.deps.json
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.dll
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\ref\GenericCol.dll
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\bin\Debug\net5.0\GenericCol.pdb
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.dll
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\ref\GenericCol.dll
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.pdb
+C:\Users\Ridhi Rani\source\repos\GenericCol\GenericCol\obj\Debug\net5.0\GenericCol.genruntimeconfig.cache

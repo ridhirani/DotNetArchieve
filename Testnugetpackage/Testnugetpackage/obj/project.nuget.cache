@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t39m2mgZ0ZsaJYqsc+5MfzmRGfAcRMS/KRXQ8reu2YcofdLUUmObgGay3WR/UGNhXQJWhlBEt/+4KJz716sQhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ridhi Rani\\source\\repos\\Testnugetpackage\\Testnugetpackage\\Testnugetpackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ridhi Rani\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

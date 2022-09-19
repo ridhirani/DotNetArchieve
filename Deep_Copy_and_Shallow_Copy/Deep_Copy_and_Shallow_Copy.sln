@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep_Copy_and_Shallow_Copy", "Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy.csproj", "{5D8108EE-DF69-4834-AA31-F7A07236806C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8108EE-DF69-4834-AA31-F7A07236806C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8108EE-DF69-4834-AA31-F7A07236806C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8108EE-DF69-4834-AA31-F7A07236806C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8108EE-DF69-4834-AA31-F7A07236806C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB05634-9BEE-4A21-A6D4-097E371E019A}
+	EndGlobalSection
+EndGlobal

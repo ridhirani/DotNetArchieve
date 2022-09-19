@@ -1,0 +1,16 @@
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.exe
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.deps.json
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.dll
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\ref\Dict.dll
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\bin\Debug\net5.0\Dict.pdb
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.dll
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\ref\Dict.dll
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.pdb
+C:\Users\Ridhi Rani\source\repos\Dict\Dict\obj\Debug\net5.0\Dict.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\bin\Debug\Demo_LINQ to Object_Query.exe.config
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\bin\Debug\Demo_LINQ to Object_Query.exe
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\bin\Debug\Demo_LINQ to Object_Query.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ to Object_Query.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ_to_Object_Query.Form1.resources
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ_to_Object_Query.Properties.Resources.resources
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ to Object_Query.csproj.GenerateResource.cache
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ to Object_Query.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ to Object_Query.exe
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ to Object_Query\Demo_LINQ to Object_Query\obj\Debug\Demo_LINQ to Object_Query.pdb

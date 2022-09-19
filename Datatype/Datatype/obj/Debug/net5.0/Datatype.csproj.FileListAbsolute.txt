@@ -1,0 +1,15 @@
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.exe
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.deps.json
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.dll
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\ref\Datatype.dll
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\bin\Debug\net5.0\Datatype.pdb
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.dll
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\ref\Datatype.dll
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.pdb
+C:\Users\Ridhi Rani\source\repos\Datatype\Datatype\obj\Debug\net5.0\Datatype.genruntimeconfig.cache

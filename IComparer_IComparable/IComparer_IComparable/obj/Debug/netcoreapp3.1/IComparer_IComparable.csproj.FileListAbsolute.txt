@@ -1,0 +1,13 @@
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.exe
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.deps.json
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.dll
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\bin\Debug\netcoreapp3.1\IComparer_IComparable.pdb
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.dll
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.pdb
+C:\Users\Ridhi Rani\source\repos\IComparer_IComparable\IComparer_IComparable\obj\Debug\netcoreapp3.1\IComparer_IComparable.genruntimeconfig.cache

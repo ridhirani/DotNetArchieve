@@ -1,0 +1,6 @@
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\bin\Debug\LINQ_To_XML2.exe.config
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\bin\Debug\LINQ_To_XML2.exe
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\bin\Debug\LINQ_To_XML2.pdb
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\obj\Debug\LINQ_To_XML2.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\obj\Debug\LINQ_To_XML2.exe
+C:\Users\Ridhi Rani\source\repos\LINQ_To_XML2\LINQ_To_XML2\obj\Debug\LINQ_To_XML2.pdb

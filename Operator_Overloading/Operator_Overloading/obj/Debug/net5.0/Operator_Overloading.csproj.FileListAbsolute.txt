@@ -1,0 +1,16 @@
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.exe
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.deps.json
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.dll
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\ref\Operator_Overloading.dll
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\bin\Debug\net5.0\Operator_Overloading.pdb
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.dll
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\ref\Operator_Overloading.dll
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.pdb
+C:\Users\Ridhi Rani\source\repos\Operator_Overloading\Operator_Overloading\obj\Debug\net5.0\Operator_Overloading.genruntimeconfig.cache

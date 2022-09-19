@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YiAHYupwrpreWYoGihI/cMgjoWGnOIBBlg96z2bEVPoKBqaZimWoeIN8PuV3/kZbwCALutgT1k015FAU+0an9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ridhi Rani\\source\\repos\\GenericCol\\GenericCol\\GenericCol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ridhi Rani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ridhi Rani\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ridhi Rani\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ridhi Rani\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

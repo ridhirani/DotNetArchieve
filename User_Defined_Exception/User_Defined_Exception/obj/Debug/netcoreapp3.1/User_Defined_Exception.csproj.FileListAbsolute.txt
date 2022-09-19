@@ -1,0 +1,14 @@
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.exe
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.deps.json
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.dll
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\bin\Debug\netcoreapp3.1\User_Defined_Exception.pdb
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.dll
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.pdb
+C:\Users\Ridhi Rani\source\repos\User_Defined_Exception\User_Defined_Exception\obj\Debug\netcoreapp3.1\User_Defined_Exception.genruntimeconfig.cache

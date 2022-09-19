@@ -1,0 +1,15 @@
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.exe
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.deps.json
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.dll
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\ref\Typecating.dll
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\bin\Debug\net5.0\Typecating.pdb
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.dll
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\ref\Typecating.dll
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.pdb
+C:\Users\Ridhi Rani\source\repos\Typecating\Typecating\obj\Debug\net5.0\Typecating.genruntimeconfig.cache

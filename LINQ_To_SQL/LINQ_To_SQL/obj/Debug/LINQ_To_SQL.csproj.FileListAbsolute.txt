@@ -1,0 +1,11 @@
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.Form1.resources
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.Properties.Resources.resources
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.csproj.GenerateResource.cache
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.exe.config
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.exe
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.pdb
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.exe
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.pdb
+C:\Users\Ridhi Rani\source\repos\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.Country.resources

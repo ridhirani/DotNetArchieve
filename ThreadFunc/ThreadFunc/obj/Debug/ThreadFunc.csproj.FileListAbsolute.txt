@@ -1,0 +1,7 @@
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\bin\Debug\ThreadFunc.exe.config
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\bin\Debug\ThreadFunc.exe
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\bin\Debug\ThreadFunc.pdb
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\obj\Debug\ThreadFunc.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\obj\Debug\ThreadFunc.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\obj\Debug\ThreadFunc.exe
+C:\Users\Ridhi Rani\source\repos\ThreadFunc\ThreadFunc\obj\Debug\ThreadFunc.pdb

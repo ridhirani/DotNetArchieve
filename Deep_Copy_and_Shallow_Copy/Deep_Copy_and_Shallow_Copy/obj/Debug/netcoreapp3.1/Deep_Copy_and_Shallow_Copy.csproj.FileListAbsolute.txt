@@ -1,0 +1,14 @@
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.exe
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.deps.json
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.dll
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\bin\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.pdb
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.dll
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.pdb
+C:\Users\Ridhi Rani\source\repos\Deep_Copy_and_Shallow_Copy\Deep_Copy_and_Shallow_Copy\obj\Debug\netcoreapp3.1\Deep_Copy_and_Shallow_Copy.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.exe
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.deps.json
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.dll
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\ref\collection.dll
+C:\Users\Ridhi Rani\source\repos\collection\collection\bin\Debug\net5.0\collection.pdb
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.dll
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\ref\collection.dll
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.pdb
+C:\Users\Ridhi Rani\source\repos\collection\collection\obj\Debug\net5.0\collection.genruntimeconfig.cache

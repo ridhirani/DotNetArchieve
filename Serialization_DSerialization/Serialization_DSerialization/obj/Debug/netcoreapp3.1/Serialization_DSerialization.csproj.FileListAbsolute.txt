@@ -1,0 +1,14 @@
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.exe
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.deps.json
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.dll
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\bin\Debug\netcoreapp3.1\Serialization_DSerialization.pdb
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.dll
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.pdb
+C:\Users\Ridhi Rani\source\repos\Serialization_DSerialization\Serialization_DSerialization\obj\Debug\netcoreapp3.1\Serialization_DSerialization.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.exe
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.deps.json
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.dll
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\ref\Queuecol.dll
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\bin\Debug\net5.0\Queuecol.pdb
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.dll
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\ref\Queuecol.dll
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.pdb
+C:\Users\Ridhi Rani\source\repos\Queuecol\Queuecol\obj\Debug\net5.0\Queuecol.genruntimeconfig.cache

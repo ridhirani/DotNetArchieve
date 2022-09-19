@@ -1,0 +1,7 @@
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\bin\Debug\Demo_LINQ_Types.exe.config
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\bin\Debug\Demo_LINQ_Types.exe
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\bin\Debug\Demo_LINQ_Types.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\obj\Debug\Demo_LINQ_Types.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\obj\Debug\Demo_LINQ_Types.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\obj\Debug\Demo_LINQ_Types.exe
+C:\Users\Ridhi Rani\source\repos\Demo_LINQ_Types\Demo_LINQ_Types\obj\Debug\Demo_LINQ_Types.pdb

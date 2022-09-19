@@ -1,0 +1,16 @@
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.exe
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.deps.json
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.runtimeconfig.json
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.runtimeconfig.dev.json
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.dll
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\ref\Demo_culture_info.dll
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\bin\Debug\net5.0\Demo_culture_info.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.AssemblyInfoInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.AssemblyInfo.cs
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.dll
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\ref\Demo_culture_info.dll
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_culture_info\Demo_culture_info\obj\Debug\net5.0\Demo_culture_info.genruntimeconfig.cache

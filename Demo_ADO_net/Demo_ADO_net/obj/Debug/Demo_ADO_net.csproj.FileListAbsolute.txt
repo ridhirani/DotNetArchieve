@@ -1,0 +1,7 @@
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\bin\Debug\Demo_ADO_net.exe.config
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\bin\Debug\Demo_ADO_net.exe
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\bin\Debug\Demo_ADO_net.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\obj\Debug\Demo_ADO_net.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\obj\Debug\Demo_ADO_net.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\obj\Debug\Demo_ADO_net.exe
+C:\Users\Ridhi Rani\source\repos\Demo_ADO_net\Demo_ADO_net\obj\Debug\Demo_ADO_net.pdb
