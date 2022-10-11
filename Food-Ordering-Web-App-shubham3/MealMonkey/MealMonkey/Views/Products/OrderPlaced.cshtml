@@ -1,0 +1,9 @@
+﻿@using MealMonkey.Models;
+
+@{ ViewBag.Title = "OrderPlaced"; }
+
+<h1 style="color:blue">Thank you! Your Order has been Placed </h1>
+
+<td>
+@Html.ActionLink("View All Orders", "OrderList", null,new { @class = "btn btn-primary" })
+</td>

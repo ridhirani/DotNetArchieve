@@ -1,0 +1,12 @@
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll.config
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CopyComplete
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\Ridhi Rani\source\repos\Demo_Web_Api1\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb

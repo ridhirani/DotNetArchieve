@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Freshers_Training2022Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Freshers_Training2022.dbo.Account_Ridhi' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Account_Ridhi">
+    <Key>
+      <PropertyRef Name="UserID" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Username" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Freshers_Training2022ModelStoreContainer">
+    <EntitySet Name="Account_Ridhi" EntityType="Self.Account_Ridhi" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Account_Ridhi].[UserID] AS [UserID], 
+    [Account_Ridhi].[FirstName] AS [FirstName], 
+    [Account_Ridhi].[LastName] AS [LastName], 
+    [Account_Ridhi].[Email] AS [Email], 
+    [Account_Ridhi].[Username] AS [Username], 
+    [Account_Ridhi].[Password] AS [Password]
+    FROM [dbo].[Account_Ridhi] AS [Account_Ridhi]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

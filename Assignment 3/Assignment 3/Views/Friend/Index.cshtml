@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table border="1" class="table table-bordered table-responsive">
+    <thead>
+        <tr class="btn-primary">
+            <th>Friend ID</th>
+            <th>Friend Name</th>
+            <th>Place</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.FriendID</td>
+            <td>@Model.FriendName</td>
+            <td>@Model.Place</td>
+
+        </tr>
+    </tbody>
+</table>

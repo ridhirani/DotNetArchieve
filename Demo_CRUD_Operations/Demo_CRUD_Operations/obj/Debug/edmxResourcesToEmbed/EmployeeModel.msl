@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdventureWorks2017ModelStoreContainer" CdmEntityContainer="AdventureWorks2017Entities">
+    <EntitySetMapping Name="EMPLOYEE_RIDHI_FIFTEENTH">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.EMPLOYEE_RIDHI_FIFTEENTH">
+        <MappingFragment StoreEntitySet="EMPLOYEE_RIDHI_FIFTEENTH">
+          <ScalarProperty Name="EMPLOYEE_Id" ColumnName="EMPLOYEE_Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="EmailID" ColumnName="EmailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
